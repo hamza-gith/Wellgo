@@ -1,0 +1,183 @@
+.maincommon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1d4fff;
+ height: 65rem;
+}
+.commontext {
+  font-size: 1.5rem;
+  color: white;
+ 
+}
+.container-fluid {
+  width: 50% !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly !important;
+  color: white;
+}
+.arrowlogo55 { 
+  width: 28rem;
+  margin-top: -0.8rem;
+  margin-left: 29rem;
+}
+.pg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 2rem;
+
+}
+.pg1 {
+  font-style: normal;
+  font-weight: bold;
+  text-align: center !important;
+  font-size: small;
+  margin-top: 0.7rem;
+  margin-left: 0.5rem;
+}
+.titleHolder {
+  font-size: 6rem;
+  font-style: normal;
+  font-weight: bold;
+  color: white !important;
+  text-align: center !important;
+}
+
+.ant-collapse-content > .ant-collapse-content-box {
+  border: none !important;
+  background-color: white;
+  color: #81a4c2;
+  font-weight: 100 !important;
+}
+
+.ant-collapse > .ant-collapse-item > .ant-collapse-header {
+  position: relative;
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: flex-start;
+  padding: 12px 16px;
+  color: #1d4fff !important;
+  line-height: 1.5715;
+  cursor: pointer;
+  transition: all 0.3s, visibility 0s;
+ 
+}
+.ant-collapse-content {
+  border-color: rgba(255, 230, 0, 0.5) !important;
+  border-bottom-color: rgba(255, 230, 0, 0.5) !important;
+ 
+}
+.ant-collapse {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+  font-size: 14px;
+  font-variant: tabular-nums;
+  line-height: 1.5715;
+  list-style: none;
+  font-feature-settings: "tnum", "tnum";
+
+  border: 2px solid rgba(255, 230, 0, 0.5) !important;
+  border-bottom: 0;
+  border-radius: 2px;
+ 
+}
+.checkcheck{
+  position: absolute;
+  margin-top: 1.2rem !important;
+  margin-left: 65rem !important;
+  width: 2rem;
+}
+/* .anticon svg {
+    position: absolute;
+    right: 0; 
+    margin-top: -1rem;
+    color: yellow;
+    font-weight: bold; 
+    font-size: larger;
+    margin-right: 1rem;
+  } */
+
+
+
+  @media (max-width: 1024px) {
+  
+    .checkcheck{
+      position: absolute;
+      margin-top: 1.2rem !important;
+      margin-left: 45rem !important;
+      width: 2rem;
+    }
+    .maincommon {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: #1d4fff;
+      height: 100%;
+    }
+  }
+  @media (max-width: 768px) {
+  
+    .checkcheck{
+      position: absolute;
+      margin-top: 2rem !important;
+      margin-left: 47rem !important;
+      width: 2rem;
+    }
+    .maincommon {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: #1d4fff;
+      height: 100%;
+    }
+    .titleHolder {
+      font-size: 4rem;
+      font-style: normal;
+      font-weight: bold;
+      color: white !important;
+      text-align: center !important;
+    }
+  }
+@media (max-width: 510px) {
+  
+  .arrowlogo55 { 
+    width: 15rem;
+    margin-top: -0.5rem;
+    margin-left: 1rem;
+  }
+  .checkcheck{
+    position: absolute;
+    margin-top: 3.5rem !important;
+    margin-left: 25rem !important;
+    width: 2rem;
+  }
+  .maincommon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1d4fff;
+    height: 100%;
+  }
+}
+@media (max-width: 320px) {
+  
+ 
+  .checkcheck{
+    position: absolute;
+    margin-top: 5rem !important;
+    margin-left: 17.5rem !important;
+    width: 2rem;
+  }
+  .maincommon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1d4fff;
+   height: 100%;
+  }
+} 

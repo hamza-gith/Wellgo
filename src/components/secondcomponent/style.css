@@ -1,0 +1,255 @@
+.thirdmaindiv {
+  background-color: #1d4fff;
+  padding: 13px 0px;
+}
+.logo123456 {
+  margin-top: -9rem;
+  width: 95%;
+}
+.icons88 {
+  font-size: 1.3rem;
+  color: #fed605 !important;
+  margin-left: 1rem;
+  margin-top: 1.5rem;
+}
+.saibadiv {
+  display: flex;
+  align-items: center; 
+}
+.saibatext {
+  font-size: 1.5rem;
+  color: #fed605; 
+  margin-top: 2.5rem;
+  font-weight: 600;
+}
+.circeldiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.divtext11 {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  flex-direction: column !important;
+  margin-top: 8rem;
+}
+.textwhite {
+  font-size: 1.4rem;
+  color: #cce4fa;
+  font-weight: 600;
+  margin-left: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+.textwhite1 {
+  font-size: 4rem;
+  color: #cce4fa;
+  font-weight: 650;
+  line-height: 1.1;
+   margin-bottom: 2.5rem;
+}
+.textwhite2 {
+  font-size: 1.6rem;
+  color: #EAECEF !important;
+  font-weight: 400;
+  margin-top: 0.5rem;
+  margin-left: 0.5rem;
+  line-height: .7;
+}
+.dodtdiv {
+  display: flex;
+  align-items: center;
+  
+}
+.messagelog {
+  position: absolute;
+  width: 34rem;
+  margin-left: -45rem;
+}
+.messagelog1 {
+  position: absolute;
+  width: 25rem;
+  margin-left: 40rem;
+}
+.crosslogo {
+  position: absolute;
+  width: 60rem;
+  height: 70rem;
+  margin-top: -29.5rem;
+  margin-left: -0.5rem;
+}
+.zcrosslogo {
+  position: absolute;
+  width: 55rem;
+  height: 45rem;
+  right: 0;
+  margin-top: -43.8rem;
+  
+}
+
+@media (max-width: 1440px) {
+  .zcrosslogo {
+    position: absolute;
+    width: 45rem;
+    height: 35rem;
+    right: 0;
+    margin-top: -33.8rem;
+    
+  }
+
+  .logo123456 {
+    margin-top: -9rem;
+    width: 50rem;
+  }
+  .messagelog {
+    position: absolute;
+    width: 25rem;
+    margin-left: -30rem; 
+  }
+  .messagelog1 {
+    position: absolute;
+    width: 20rem;
+    margin-left: 26rem;
+  }
+  .textwhite1 {
+    font-size: 3rem;
+    color: #cce4fa;
+    font-weight: bold;
+    line-height: 1.1;
+  }
+}
+ 
+@media (max-width: 1024px) {
+  .crosslogo {
+    position: absolute;
+    width: 28rem;
+    margin-top: -22rem;
+  }
+  .textwhite1 {
+    font-size: 2.5rem;
+    color: #cce4fa;
+    font-weight: bold;
+    line-height: 1.2;
+  }
+  .textwhite2 {
+    font-size: 1.1rem;
+    color: #cce4fa;
+    font-weight: 400;
+    margin-top: 0.5rem;
+    margin-left: 0.5rem;
+  }
+  .zcrosslogo { 
+    position: absolute;
+    width: 35rem;
+    height: 25rem;
+    right: 0;
+    margin-top: -23.8rem;
+    
+  }
+  .logo123456 {
+    margin-top: -7rem;
+    width: 38rem;
+  }
+  .messagelog {
+    position: absolute;
+    width: 17rem;
+    margin-left: -20rem;
+  }
+  .messagelog1 {
+    position: absolute;
+    width: 12rem;
+    margin-left: 20rem;
+  }
+  .divtext11 {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    flex-direction: column !important;
+    margin-top: 6rem;
+  }
+}
+@media (max-width: 768px) {
+  .crosslogo {
+    position: absolute;
+    width: 40rem;
+    margin-top: -28rem;
+  }
+  .zcrosslogo {
+    display: none !important;
+  }
+}
+@media (max-width: 510px) {
+  .logo12 {
+    margin-top: -7rem;
+    width: 35rem;
+  }
+  .saibatext {
+    font-size: 1.5rem;
+    color: #fed605;
+    margin-top: 1rem;
+    font-weight: 700;
+    text-align: center;
+  }
+  .messagelog {
+    position: absolute;
+    width: 23rem;
+    margin-left: -23rem;
+  }
+  .messagelog1 {
+    position: absolute;
+    width: 18rem;
+    margin-left: 23rem;
+  }
+  .crosslogo {
+    position: absolute;
+    width: 20rem;
+
+    margin-top: 25rem;
+    margin-left: 1rem;
+  }
+  .mobileview {
+    flex-direction: column-reverse !important;
+  }
+  .logo123456 {
+    margin-top: 2rem;
+    width: 45rem;
+  }
+  .textwhite {
+    font-size: 1rem;
+    color: #cce4fa;
+    text-align: center;
+  }
+  .textwhite1 {
+    font-size: 2.5rem;
+    color: #cce4fa;
+    font-weight: bold;
+    text-align: center;
+  }
+  .textwhite2 {
+    font-size: 1.1rem;
+    color: #cce4fa;
+    font-weight: 400;
+    margin-top: 0.5rem;
+    margin-left: 0.5rem;
+    text-align: center;
+  }
+  .saibadiv {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+  }
+  .icons88 { 
+    font-size: 1.3rem;
+    color: #fed605 !important;
+    margin-left: 1rem;
+    margin-top: -2.2rem;
+  }
+}
+@media (max-width: 320px) {
+  .crosslogo {
+    position: absolute;
+    width: 17rem;
+    margin-top: 22rem;
+    margin-left: -0.1rem;
+  }
+}

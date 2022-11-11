@@ -1,0 +1,549 @@
+.chega-de-main-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 0px;
+}
+.saibblue {
+  font-size: 1.4rem;
+  color: #1d4fff;
+  font-weight: 800;
+  margin-top: 1.2rem; 
+}
+.arrblue {
+  font-size: 1.4rem;
+  color: #1d4fff !important;
+  font-weight: 600;
+  margin-top: -.1rem;
+  margin-left: 0.5rem;
+}
+.divblue {
+  display: flex;
+  align-items: center;
+}
+.text-chega-de11 {
+  color: hsl(227, 100%, 56%);
+  font-size: 1.6rem;
+  font-weight: bold !important;
+  margin-top: 3.5rem;
+  text-transform: uppercase;
+  margin-bottom: 2rem;
+}
+.textesta {
+  font-size: 5.5rem;
+  font-weight: bold !important;
+  color: #0c1c46;
+  line-height: 1;
+  margin-bottom: 1rem;
+}
+.text-chega-de-1 {
+  text-align: center;
+  font-size: 1.5rem !important;
+  font-weight: 500 !important;
+  margin-top: 1rem !important;
+  color: #000000 !important;
+ 
+}
+.yelowdot {
+  margin-top: -4rem;
+  margin-left: 29rem;
+  width: 2rem;
+  position: absolute;
+  z-index: -1rem;
+}
+.dotimgdisplay {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.display22 {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.bigyellow {
+  margin-left: 10rem;
+}
+.dispaly33 {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.ellowe {
+  margin-right: 10rem;
+}
+.dsplay44 {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.display55 {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.samllblue {
+  margin-left: 10rem;
+}
+
+.text-online-div {
+  font-size: 4rem !important;
+  font-weight: 900;
+  color: #0c1c46;
+  margin-top: 7rem !important;
+}
+.text-online-div-1 {
+  font-size: 1.5rem !important;
+  font-weight: 600 !important;
+  color: #000000 !important;
+}
+.text-online-div-155{
+  font-size: 1.5rem !important;
+  font-weight: 600 !important;
+  color: #000000 !important;
+ 
+}
+.text-online-div-156{
+  font-size: 1.5rem !important;
+  font-weight: 600 !important;
+  color: #000000 !important;
+  margin-top: 1.5rem;
+ 
+} 
+.btn-div-cada {
+  font-weight: bold;
+  font-size: 1.4rem !important;
+  margin-top: 2rem;
+  height: 7rem !important;
+  width: 28rem !important;
+  background-color: #fed605;
+  border-radius: 5.625rem;
+  border: none;
+}
+.lightblue-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30.9375rem;
+  width: 31.0625rem;
+  background-color: #cce4fa;
+  border-radius: 2rem;
+}
+.white-div {
+  height: 21.889rem;
+  width: 19.386rem;
+  border-radius: 1.516rem;
+  background-color: #ffffff;
+}
+.small-main-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin-top: 2.5rem;
+  margin-right: 1.2rem;
+}
+.small-div-1 {
+  height: 0.809rem;
+  width: 2.715rem;
+  margin-right: 0.3rem;
+  border-radius: 6.756rem;
+  background-color: #e2e6f3;
+}
+.small-div-2 {
+  height: 0.809rem;
+  width: 2.106rem;
+  margin-right: 0.35rem;
+  border-radius: 6.756rem;
+  background-color: #e2e6f3;
+}
+
+.colorchangeofgastando {
+  color: #1d4fff;
+}
+
+.gastandoimage {
+  width: 18rem;
+  margin-left: -42rem;
+  margin-top: -1.8rem;
+  margin-bottom: 1rem;
+  z-index: -1;
+}
+.smallblue-div {
+  margin-top: -0.1rem;
+  height: 1.125rem;
+  width: 2.646rem;
+  background-color: #1d4fff;
+  border-radius: 6.756rem;
+}
+.grey-yellow-div-main {
+  display: flex !important;
+  flex-direction: column !important;
+}
+.large-div-grey {
+  align-self: center;
+  height: 7.968rem;
+  width: 17.469rem;
+  margin-top: 0.7rem;
+  background-color: rgba(239, 239, 243, 0.7);
+  border-radius: 0.767rem;
+}
+.yellow-div {
+  align-self: flex-end;
+  height: 7.382rem;
+  width: 7.771rem;
+  margin-top: 0.7rem;
+  margin-right: 1rem;
+  background-color: #fed605;
+  border-radius: 0.767rem;
+}
+.teslogo {
+  width: 50rem !important;
+}
+.centerdivdiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.saibamaiz {
+  position: absolute;
+  margin-left: -1.2rem;
+}
+.euglogo1 {
+  position: absolute;
+  margin-left: -1.7rem;
+  margin-top: -1rem;
+}
+.bluecircleofhefince {
+  position: absolute;
+  height: 2rem;
+  margin-left: 80rem;
+  margin-top: 8rem;
+}
+.yellowdotimg {
+  position: absolute;
+  margin-left: 70rem;
+  margin-top: -14rem;
+  width: 6rem;
+}
+.yellowcircle {
+  position: absolute;
+  height: 2rem;
+  margin-top: -14rem;
+  margin-left: -5rem;
+}
+.bluedot {
+  position: absolute;
+  margin-left: -25rem;
+}
+.bigblue {
+  position: absolute;
+  width: 5rem;
+  margin-top: 5rem;
+  margin-left: -25rem;
+}
+@media(max-width: 1440px){
+  .yellowcircle {
+    position: absolute;
+    height: 2rem;
+    margin-top: -12rem;
+    margin-left: -16rem;
+  }
+  .bluecircleofhefince {
+    position: absolute;
+    height: 2rem;
+    margin-left: 66rem;
+    margin-top: 8rem;
+  }
+  .bigblue {
+    position: absolute;
+    width: 5rem;
+    margin-top: 5rem;
+    margin-left: -16rem;
+  }
+  .yellowdotimg {
+    position: absolute;
+    margin-left: 54rem;
+    margin-top: -14rem;
+    width: 6rem;
+  }
+}
+@media (max-width: 1024px) {
+  .bluecircleofhefince {
+    position: absolute;
+    height: 5rem;
+    margin-left: -55rem;
+  }
+  .yellowdotimg {
+    position: absolute;
+    margin-left: 35rem;
+    margin-top: -8rem;
+    width: 5rem;
+  }
+  .bluedot {
+    position: absolute;
+    margin-left: -8rem;
+  }
+  .yellowcircle {
+    position: absolute;
+    height: 2rem;
+    margin-top: -12rem;
+    margin-left: -8rem;
+  }
+  .bluecircleofhefince {
+    position: absolute;
+    height: 2rem;
+    margin-left: 30rem;
+    margin-top: 8rem;
+  }
+  .bigblue {
+    position: absolute;
+    width: 3rem;
+    margin-top: 5rem;
+    margin-left: -6rem;
+  }
+  .textesta {
+    font-size: 4rem;
+    font-weight: 800;
+    color: #0c1c46;
+    line-height: 1.1;
+  }
+  .gastandoimage {
+    width: 13rem;
+    margin-left: -30rem;
+    margin-top: -1.1rem;
+    margin-bottom: 1rem;
+    z-index: -1;
+  }
+  .text-chega-de-1 {
+    text-align: center;
+    font-size: 1.2rem !important;
+    font-weight: 500 !important;
+  }
+  .teslogo {
+    width: 35rem !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .maindiv33 {
+    text-align: center;
+    padding: 1rem;
+  }
+  .agendament {
+    font-weight: bold;
+    font-size: 5rem;
+  }
+  .logo8 {
+    width: 55rem;
+    height: 60rem;
+  }
+  .yellowsqure {
+    position: absolute;
+    z-index: -1rem;
+    margin-top: 29rem;
+    margin-left: 30rem;
+  }
+  .logo121 {
+    position: absolute;
+    z-index: 1rem;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+
+    margin-right: -30rem;
+  }
+  .logo111 {
+    margin-top: -7rem;
+  }
+  .logo131 {
+    margin-top: -7rem;
+  }
+  .logo141 {
+    width: 5rem;
+    height: 2rem;
+    margin-top: -7rem;
+  }
+  .agendament {
+    font-weight: bold;
+    font-size: 5rem;
+    margin-right: -5rem;
+  }
+  .agendament11 {
+    margin-left: 5rem;
+  }
+  .logo4 { 
+    margin-left: 5rem;
+  }
+  .teslogo {
+    width: 35rem !important;
+  }
+}
+
+@media (max-width: 510px) {
+  .mblcenterviewcenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .textesta {
+    font-size: 3rem;
+    font-weight: 800;
+    color: #0c1c46;
+    text-align: center;
+  }
+  .yelowdot {
+    margin-top: 38rem;
+    margin-left: -22rem;
+    width: 2rem;
+    position: absolute;
+  }
+  .yellowdotimg {
+    display: none !important;
+  }
+  .bluedot {
+    position: absolute;
+    margin-left: 35rem;
+    margin-top: -18rem;
+  }
+  .yellowcircle {
+    position: absolute;
+    height: 1rem;
+    margin-left: 10rem;
+    margin-top: 6rem;
+  }
+  .bigblue {
+    display: none !important;
+  }
+  .bluecircleofhefince {
+    position: absolute;
+    height: 2rem;
+    margin-left: 70rem;
+    margin-top: 15rem;
+  }
+}
+@media (max-width: 425px) {
+  .agendament {
+    font-weight: bold;
+    font-size: 4rem;
+  }
+  .text-online-div-155{
+    font-size: 1.5rem !important;
+    font-weight: 600 !important;
+    color: #000000 !important;
+    text-align: center !important;
+   
+  }
+  .text-online-div-156{
+    font-size: 1.5rem !important;
+    font-weight: 600 !important;
+    color: #000000 !important;
+    margin-top: 1.5rem;
+    text-align: center !important;
+   
+  }
+  .logo8 {
+    width: 35rem;
+    height: 45rem;
+  }
+  .logo9 {
+    position: absolute;
+    margin-left: 7rem;
+    z-index: 1rem;
+  }
+  .logo99 {
+    width: 40rem;
+    height: 50rem;
+    margin-left: 1.5rem;
+  }
+  .yellowsqure {
+    width: 18rem;
+    position: absolute;
+    z-index: -1rem;
+    margin-top: 19rem;
+    margin-left: 24rem;
+  }
+  .yellowsqure11 {
+    width: 15rem;
+    margin-top: 3.5rem;
+  }
+  .logo11 {
+    position: absolute;
+    z-index: 1rem;
+    margin-top: -9rem;
+    margin-left: 7rem;
+  }
+  .text-chega-de {
+    text-transform: uppercase;
+    color: #1d4fff;
+    font-weight: 800;
+    font-size: 0.875rem;
+    text-align: center;
+  }
+  .text-chega-de-head {
+    font-size: 2rem !important;
+    font-weight: 800;
+    color: #0c1c46;
+    text-align: center;
+  }
+  .text-chega-de-1 {
+    text-align: center !important;
+    font-size: 1rem !important;
+    font-weight: 500;
+  }
+
+  .text-online-div {
+    font-size: 2.375rem;
+    font-weight: 900;
+    color: #0c1c46;
+    text-align: center;
+  }
+  .text-online-div-1 {
+    font-size: 1rem;
+    font-weight: 600;
+    text-align: center;
+  }
+  .centermblview {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
+  }
+  .revmblrow {
+    flex-direction: column-reverse !important;
+  }
+  .gastandoimage {
+    width: 8rem;
+    margin-left: -22rem;
+    margin-top: -1.4rem;
+    margin-bottom: 1rem;
+  }
+
+  .bluecircleofhefince {
+    position: absolute;
+    height: 1.5rem;
+    margin-left: 38rem;
+    margin-top: 32rem; 
+  }
+
+  .bluedot {
+    position: absolute;
+    margin-left: 36rem;
+    margin-top: -20rem;
+  }
+  .yellowcircle {
+    position: absolute;
+    height: 1.5rem;
+    margin-left: 2rem;
+    margin-top: 6rem;
+  }
+  .yelowdot {
+    margin-top: 38rem;
+    margin-left: -21rem;
+    width: 2rem;
+    position: absolute;
+  }
+}

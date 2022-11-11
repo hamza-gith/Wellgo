@@ -1,0 +1,70 @@
+.Wellgo {
+  font-size: 2.5rem;
+  font-weight: bold;
+  font-family: Verdana, cursive Tahoma, sans-serif;
+}
+.navbar-toggler-icon{
+  background-image: url("../../Images/burger.png") !important;
+}
+.Wellgo11 {
+  margin-right: 5rem;
+  z-index: 1;
+  margin: .5rem !important;
+}
+.cadastrar {
+  font-weight: bold;
+  color: #1d4fff;
+  text-align: center !important;
+}
+.cadastrar11 {
+  color: #1d4fff;
+  font-size: 1.6rem;
+  font-weight: 500;
+  text-align: center !important;
+  margin: .5rem !important;
+  margin-left: 4.8rem !important;
+}
+.araseu {
+  font-size: 1.5rem !important;
+  color: #0c1c46 !important;
+  font-weight: 600 !important;
+  text-align: center !important;
+  margin: .5rem !important;
+}
+.linknav {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+.logindiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: .5rem !important;
+}
+.paddingofnavbar{
+  padding-left: 15rem;
+  padding-right: 15rem;
+  padding-top: 1rem;
+}
+
+@media (max-width:1024px) {
+
+  .paddingofnavbar{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 0rem;
+  }
+
+  
+}
+@media(max-width: 768px){
+  .Wellgo11 {
+  width: 12rem;
+  }
+}
+@media(max-width: 510px){
+  .Wellgo11 {
+  width: 10rem;
+  }
+} 

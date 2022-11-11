@@ -1,0 +1,201 @@
+.mainAumente {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px 0px;
+}
+.bgcolorblue {
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  flex-direction: column;
+  background-color: #1d4fff;
+  border-radius: 2.5rem;
+  padding-left: 9rem;
+  padding-right: 46rem;
+  padding-top: 12rem;
+  padding-bottom: 9.5rem;
+  z-index: -1;
+}
+.yelowdddot {
+  display: none;
+  position: absolute;
+  margin-left: 10rem;
+  margin-top: -15rem;
+} 
+.rayys {
+  position: absolute;
+  z-index: 1;
+  margin-left: -1.5rem;
+  margin-top: -9rem;
+}
+.Aumentetext {
+  font-size: 1.4rem;
+  color: #CCE4FA;
+  font-weight: bold;
+  margin-left: -1.5rem;
+  text-transform: uppercase;
+}
+.Aumentetext1 {
+  font-size: 4rem;
+  color: white;
+  font-weight: bold;
+  line-height: 1.1;
+  margin-top: -1rem;
+  margin-left: -1.5rem;
+}
+.AumenteLogoimg {
+  position: absolute; 
+  width: 52rem;
+  border-radius: 2rem;
+  margin-left: 40rem;
+  margin-top: -5.5rem;
+  z-index: 1;
+}
+.Aumenteimg1 {
+  position: absolute;
+  width: 28rem;
+  border-radius: 2rem;
+  margin-left: 69rem;
+  margin-top: -1rem;
+  z-index: -1;
+}
+.logoame {
+  margin-top: -.8rem;
+}
+.yellowpngdot {
+  position: absolute;
+  margin-left:65rem;
+  margin-top: -16rem;
+  height: 2rem;
+}
+@media (max-width:1024px) {
+
+  .Aumenteimg1 {
+    position: absolute;
+    width: 22rem;
+    border-radius: 2rem;
+    margin-left: 67rem; 
+    margin-top: -1rem;
+    z-index: -1;
+  }
+  
+}
+@media (max-width: 768px) {
+  .AumenteLogoimg {
+    position: absolute;
+    width: 42rem;
+    border-radius: 2rem;
+    margin-left: 43rem;
+    margin-top: -4rem;
+    z-index: 1;
+  }
+  .Aumenteimg1 {
+    position: absolute;
+    width: 22rem;
+    border-radius: 2rem;
+    margin-left: 67rem;
+    margin-top: -1rem;
+    z-index: -1;
+  }
+  .yellowpngdot {
+    display: none !important;
+  }
+}
+@media (max-width: 510px) {
+  .bgcolorblue {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #1d4fff;
+    border-radius: 2.5rem;
+    padding-left: 8rem;
+    padding-right: 8rem;
+    padding-top: 4rem;
+    padding-bottom: 34rem;
+    z-index: -1;
+  }
+  .Aumentetext {
+    font-size: 1.2rem;
+    color: white;
+    font-weight: 300;
+    text-align: center;
+  }
+  .Aumentetext1 {
+    font-size: 2rem;
+    color: white;
+    font-weight: bold;
+    text-align: center; 
+    line-height: 1.1;
+  }
+  .AumenteLogoimg {
+    position: absolute;
+    width: 30rem;
+    border-radius: 2rem;
+    margin-left: 1rem;
+    margin-top: 28rem;
+    z-index: 1;
+  }
+  .Aumenteimg1 {
+    position: absolute;
+    width: 18.5rem;
+    border-radius: 2rem;
+    margin-left: 13.2rem;
+    margin-top: 30rem;
+    z-index: -1;
+  }
+  .rayys {
+    position: absolute;
+    z-index: 1;
+    margin-left: 12rem;
+    margin-top: -30rem;
+  }
+  .yellowpngdot {
+    display: none !important;
+  }
+}
+ 
+@media (max-width: 320px) {
+  .bgcolorblue {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #1d4fff;
+    border-radius: 2.5rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    padding-top: 4rem;
+    padding-bottom: 34rem;
+    z-index: -1;
+  }
+  .Aumentetext {
+    font-size: 1.2rem;
+    color: white;
+    font-weight: 300;
+    text-align: center;
+  }
+  .Aumentetext1 {
+    font-size: 2rem;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+  }
+  .AumenteLogoimg {
+    position: absolute;
+    width: 30rem;
+    border-radius: 2rem; 
+    margin-left: -0.5rem;
+    margin-top: 28.1rem;
+    z-index: 1;
+  } 
+  .Aumenteimg1 {
+    position: absolute;
+    width: 17rem;
+    border-radius: 2rem;
+    margin-left: 12rem;
+    margin-top: 30.5rem;
+    z-index: -1;
+  }
+}

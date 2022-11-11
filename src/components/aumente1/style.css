@@ -1,0 +1,300 @@
+.AumenteOnemain {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 60px 0px;
+}
+.bluedo33t {
+  position: absolute;
+  margin-left: 10rem;
+}
+
+.bgcolorblueAmu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #1d4fff;
+  border-radius: 2.5rem;
+  padding-left: 4rem;
+  padding-right: 5rem;
+  padding-top: 4rem;
+  padding-bottom: -2rem;
+  z-index: -1;
+}
+.centeramudiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.centeramudiv1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 8rem;
+}
+.AumenteOnetext {
+  font-size: 1.5rem;
+  color: #cce4fa;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-left: .5rem;
+}
+.AumenteOnetext12 {
+  font-size: 3.8rem;
+  color: white;
+  font-weight: bold;
+  line-height: 50px;
+  text-transform:capitalize;
+  margin-bottom: 1.5rem;
+}
+.AumenteOneLogoimg {
+  width: 65rem;
+  border-radius: 2rem;
+  margin-top: -16rem;
+  margin-left: 2rem;
+  z-index: 1;
+}
+.AumenteOneimg1 {
+  position: absolute;
+  width: 50rem;
+  border-radius: 2rem;
+  margin-left: -19rem;
+  margin-top: -10rem;
+  z-index: -1;
+}
+.logoAumenteOne {
+  margin-top: -2rem;
+}
+.bluedo333t {
+  margin-left: 50rem;
+  position: absolute;
+  margin-top: 20rem;
+}
+.bluedo333tt {
+  margin-left: 64rem;
+  position: absolute;
+  margin-top: 15rem;
+}
+.YellowMen {
+  position: absolute;
+  margin-left: 53rem;
+  margin-top: -9.5rem;
+}
+
+
+.YellowMenonmen{
+  position: absolute;
+  margin-left: 22rem;
+  margin-top: 26rem;
+  z-index: 2;
+}
+@media (max-width: 1024px) {
+  .AumenteOnetext {
+    font-size: 1.3rem;
+    color: #cce4fa;
+    font-weight: 300;
+  }
+  .AumenteOnetext12 {
+    font-size: 2.5rem;
+    color: white;
+    font-weight: bold;
+    line-height: 35px;
+  }
+  .AumenteOneLogoimg {
+    width: 48rem;
+    border-radius: 2rem;
+    margin-top: -12rem;
+    z-index: 1;
+  }
+  .AumenteOneimg1 {
+    position: absolute;
+    width: 36rem;
+    border-radius: 2rem;
+    margin-left: -17rem;
+    margin-top: -2rem;
+    z-index: -1;
+  }
+  .YellowMen {
+    position: absolute;
+    margin-left: 45rem;
+    margin-top: -9.5rem;
+  }
+  .bluedo333tt {
+    margin-left: 48rem;
+    position: absolute;
+    margin-top: 12rem;
+  }
+  .YellowMenonmen{
+    position: absolute;
+    margin-left: 17rem;
+    margin-top: 18rem;
+    z-index: 2;
+    width: 2rem;
+  }
+  .centeramudiv1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 4rem;
+  }
+  .bgcolorblueAmu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #1d4fff;
+    border-radius: 2.5rem;
+    padding-left: 4rem;
+    padding-right: 5rem;
+    padding-top: 6rem;
+    padding-bottom: -2rem;
+    z-index: -1;
+  }
+}
+@media(max-width: 768px){
+  .bgcolorblueAmu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #1d4fff;
+    border-radius: 2.5rem;
+    padding-left: 4rem;
+    padding-right: 5rem;
+    padding-top: 6rem;
+    padding-bottom: -2rem;
+    z-index: -1;
+  }
+  .AumenteOnetext12 {
+    font-size: 2.5rem;
+    color: white; 
+    font-weight: bold; 
+    line-height: 25px;
+  }
+  .AumenteOneLogoimg {
+    width: 50rem;
+    border-radius: 2rem;
+    margin-top: -12rem;
+    margin-left: -1rem;
+    z-index: 1;
+  }
+}
+@media (max-width: 510px) {
+  .rowmobile {
+    flex-direction: column-reverse !important;
+  }
+  .YellowMen {
+    position: absolute;
+    margin-left: 18.5rem;
+    margin-top: -28rem;
+    width: 4rem;
+  } 
+  .bgcolorblueAmu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #1d4fff;
+    border-radius: 2.5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 2rem;
+    padding-bottom: -2rem;
+    z-index: -1;
+  }
+  .AumenteOneLogoimg {
+    width: 32rem;
+    border-radius: 2rem;
+    margin-top: 12rem;
+    z-index: 1;
+  }
+  .AumenteOneimg1 {
+    position: absolute;
+    width: 32rem;
+    border-radius: 2rem;
+    margin-left: -16rem;
+    margin-top: 16rem;
+    z-index: -1;
+  }
+  .AumenteOnetext {
+    font-size: 1.3rem;
+    color: #cce4fa;
+    font-weight: bold;
+    text-align: center;
+  }
+ 
+  .AumenteOnetext1 {
+    font-size: 2.5rem;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+  }
+  .centerdivamudiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .bluedo333t {
+    display: none !important;
+  }
+  .bluedo333tt {
+    display: none !important;
+  }
+  .bluedo33t {
+    display: none !important;
+  } 
+
+  .YellowMenonmen{
+    position: absolute;
+    margin-left: 11rem;
+    margin-top: 33rem;
+    z-index: 2;
+    width: 2rem;
+  }
+}
+@media (max-width: 320px) {
+  .bgcolorblueAmu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #1d4fff;
+    border-radius: 2.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 2rem;
+    padding-bottom: -2rem;
+    z-index: -1;
+  }
+  .AumenteOneLogoimg {
+    width: 30rem;
+    border-radius: 2rem;
+    margin-top: 12rem;
+    z-index: 1;
+  }
+  .AumenteOnetext {
+    font-size: 1.2rem;
+    color: #cce4fa;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-left: .5rem;
+  }
+  .AumenteOneimg1 {
+    position: absolute;
+    width: 28rem;
+    border-radius: 2rem;
+    margin-left: -12rem;
+    margin-top: 16rem;
+    z-index: -1;
+  }
+  .YellowMen {
+    position: absolute;
+    margin-left: 16rem;
+    margin-top: -27.5rem;
+    width: 3rem;
+  }
+}

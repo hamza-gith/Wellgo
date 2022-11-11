@@ -1,0 +1,336 @@
+
+.maintextdiv{
+  height: 75rem;
+}
+.text11 {
+  text-align: center;
+  color: #1d4fff;
+  padding: 1rem;
+}
+.textdiv {
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #cce4fa;
+}
+.neg {
+  text-decoration: none !important;
+}
+.aumetexttext {
+  font-size: 1.4rem;
+  text-align: center;
+  color: rgba(29, 79, 255,1);
+  font-weight: 600;
+  text-transform: uppercase;
+  margin-top: 1.5rem;
+letter-spacing: 0.05em;
+  
+}
+.dispalllay22 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 4rem;
+}
+.paddingdiv {
+  margin-top: 10rem;
+  margin-bottom: 10rem;
+  padding: 50px 0px;
+}
+
+.iconstyle55 {
+  position: absolute;
+  font-size: 1.5rem !important;
+  margin-left: 1rem !important;
+  margin-top: -0.5rem !important;
+  color: #1d4fff !important;
+}
+.textlogoimg {
+  width: 40rem;
+}
+.logo576 {
+  position: absolute;
+  margin-left: -14rem;
+  margin-top: -7rem; 
+  width: 12rem;
+}
+.text22 {
+  font-size: 6rem;
+  text-align: center;
+  font-weight: bold;
+  line-height: 5.6rem;
+  color: #0C1C46 !important;
+  letter-spacing: -1px;
+  font-stretch: expanded;
+
+}
+.input11 {
+  width: 60rem;
+  padding: 3.5rem;
+  background-color: #FFFFFF;
+  color: black;
+  border-radius: 3.7rem;
+  border: none !important;
+  box-shadow: 0px 0px 8px 2px rgba(8, 6, 26, 0.06);
+}
+::placeholder {
+  font-size: 1.6rem;
+  color: #c2c2c2 !important;
+  font-weight: 400;
+}
+.text123 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.text {
+  padding: 1.5rem;
+}
+.button {
+  position: absolute;
+  width: 22rem;
+  height: 6.5rem;
+  border-radius: 5.625rem;
+  background-color: #fed605;
+  font-weight: 400;
+  align-items: center;
+  border: solid 1px #fed605;
+  margin-top: -2.2rem;
+  margin-left: -23rem;
+  font-size: 1.3rem;
+  color: #0c1c46 !important;
+  font-weight: bold !important;
+}
+.logopng {
+  width: 4rem;
+  margin-right: -1rem;
+  align-items: center;
+  margin-top: -1rem;
+}
+.comontext {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.colourtext {
+  font-size: 1.7rem;
+  color: #1d4fff;
+  margin-left: 0.3rem;
+  font-weight: 700;
+  margin-top: 1rem;
+}
+.imgtext {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -1rem;
+}
+.maindiv { 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.text33 {
+  padding: 1rem;
+}
+.sticklogo {
+  position: absolute;
+  margin-top: 3rem;
+  margin-left: 65rem;
+  width: 25%;
+  height: 100%;
+  z-index: -2;
+}
+.sticklogo1 {
+  position: absolute;
+  margin-top: 5.5rem;
+  width: 25.5%;
+  height: 40%;
+  z-index: -1;
+}
+.centcenter {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+}
+.arowdiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.arowlog {
+  position: absolute;
+  width: 25rem;
+  margin-top: 5.5rem;
+  margin-left: -24rem;
+  z-index: -1;
+}
+.commontext22{
+  color: #81A4C2 !important;
+  font-size: 1.7rem !important;
+  margin-left: .3rem !important;
+  margin-top: 1.1rem !important;
+} 
+@media(max-width: 1440px){
+  .sticklogo {
+    position: absolute;
+    margin-top: -7rem;
+    margin-left: 50rem;
+    width: 20%;
+    height: 90%;
+    z-index: -2;
+  }
+  .sticklogo1 {
+    position: absolute;
+    margin-top: -1.5rem;
+    width: 25%;
+    height: 40%;
+    z-index: -1;
+  }
+}
+@media (max-width: 1024px) {
+  .sticklogo {
+    position: absolute;
+    margin-top: -7rem;
+    margin-left: 38rem;
+    width: 20%;
+    height: 60%;
+    z-index: -1;
+  }
+  .text22 {
+    font-size: 4rem;
+    text-align: center;
+    font-weight: 1000;
+    line-height: 1;
+    color: #0C1C46 !important;
+  }
+}
+
+@media (max-width: 510px) {
+  .sticklogo {
+    position: absolute;
+    margin-top: -5rem;
+    margin-left: 15rem;
+    width: 20%;
+    height: 30%;
+    z-index: -1;
+  }
+  .textlogoimg {
+    width: 30rem;
+  }
+  .sticklogo1 {
+    position: absolute;
+    margin-top: -2rem;
+    width: 25%;
+    height: 17%;
+    z-index: -1;
+  }
+  .text22 {
+    font-size: 3rem;
+    text-align: center;
+    font-weight: 1000;
+  }
+  .input11 {
+    width: 22rem;
+    padding: 2rem;
+    background-color: #ffffff;
+    color: black;
+    border-radius: 2rem;
+    border: none !important;
+    box-shadow: 0px 8px 25px rgba(13, 10, 44, 0.06);
+    text-align: center;
+  }
+  .button {
+    position: absolute;
+    width: 17rem;
+    height: 5rem;
+    border-radius: 2.5rem;
+    background-color: #fed605;
+    font-weight: 400;
+    align-items: center;
+    border: solid 1px #fed605;
+    margin-top: 5rem;
+    margin-left: -19.5rem;
+    font-size: 1rem;
+  }
+  .logo576 {
+    position: absolute;
+    margin-left: -10rem;
+    margin-top: -5rem;
+    width: 8rem;
+  }
+  .imgtext {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+  }
+  .arowlog {
+    position: absolute;
+    width: 14rem;
+    margin-top: 2.5rem;
+    margin-left: -12rem;
+  }
+  .aumetexttext {
+    font-size: 1.2rem;
+    text-align: center;
+    color: #1d4fff;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.05em; 
+
+  }
+  .commontext22{
+    color: #81A4C2 !important;
+    font-size: 1.5rem !important;
+    margin-left: .3rem !important;
+    margin-top: 1.1rem !important;
+  } 
+  .colourtext { 
+    font-size: 1.5rem;
+    color: #1d4fff;
+    margin-left: 0.3rem;
+    font-weight: 700;
+    margin-top: 1rem;
+  }
+  .iconcheck{
+    margin-top: 1rem !important;
+  }
+}
+@media (max-width: 320px) {
+  .aumetexttext {
+    font-size: 1rem; 
+    text-align: center;
+    color: #1d4fff;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+
+  }
+  .commontext22{
+    color: #81A4C2 !important;
+    font-size: 1.3rem !important;
+    margin-left: .3rem !important;
+    margin-top: 1.1rem !important;
+    text-align: center;
+  }
+  .colourtext {
+    font-size: 1.3rem;
+    color: #1d4fff;
+    margin-left: 0.3rem;
+    font-weight: 700;
+    margin-top: 1rem;
+    text-align: center;
+  }
+  .iconstyle55 {
+    position: absolute;
+    font-size: 1.3rem !important;
+    margin-left: 1rem !important;
+    margin-top: -0.5rem !important;
+    color: #1d4fff !important;
+  }
+}
